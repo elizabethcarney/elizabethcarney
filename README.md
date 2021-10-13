@@ -4,7 +4,7 @@
 ### :wave: Hi! I'm Elizabeth (she/her)  
 ---
 
-I'm a student at Smith College, graduating this spring with certificates in Computer Science, East Asian Languages and Literatures, and Translation Studies. I'm very excited to be joining Arrowstreet Capital as a software developer after graduating. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/elizabeth-kim-carney/) or at <elizabethkcarney@gmail.com>!
+I'm a software developer at Arrowstreet Capital in Boston, MA. I studied Computer Science, East Asian Languages and Literatures, and Translation Studies at Smith College ('21). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/elizabeth-kim-carney/) or at <elizabethkcarney@gmail.com>!
 
 #### :hammer_and_wrench: Technologies & Tools  
 
